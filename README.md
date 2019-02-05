@@ -1,5 +1,5 @@
 # Indoor-Navigation-App
-Senior Design Project Team AB
+Senior Design Project Team AB                                
 TEAM MEMBERS:
 ARSALAN BABAR
 OMOOBAAYERAYE ADARANIJO
