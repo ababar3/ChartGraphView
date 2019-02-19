@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
         String button_text;
         button_text = ((Button) view).getText().toString();
         if (button_text.equals("Open Step Detector")) {
-            Intent intent = new Intent(this, Detects.class);
+            Intent intent = new Intent(this, Detection.class);
             startActivity(intent);
         } else if (button_text.equals("Open Accelerometer Graph")) {
             Intent intent = new Intent(this, ThirdActivity.class);

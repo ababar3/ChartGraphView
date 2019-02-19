@@ -28,7 +28,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class ThirdActivity extends Detects implements SensorEventListener {
+public class ThirdActivity extends Detection implements SensorEventListener {
 
     private SensorManager sensorManager;
     private LineGraphSeries<DataPoint> series;
